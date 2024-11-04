@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "firstcommit"
+git remote add origin https://github.com/inishrav/flask-learning-and-pro.git
+git branch -M main
+git push -u origin main
